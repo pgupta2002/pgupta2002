@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Pratyksh Gupta
-- 👀 I’m interested in Coding and many more..
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Coding, Development, and many more..
+- 🌱 I’m currently learning App Development
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me: through mail at pratyksh.gupta@gmail.com 
+- 📫 How to reach me: through mail at pratyksh.1gupta@gmail.com 
 
 
 <!---
